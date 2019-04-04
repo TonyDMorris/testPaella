@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "a1c897dedc12e3ddba49",
-    "url": "/testPaella/static/css/main.0d5e07e4.chunk.css"
+    "revision": "8e00c9b7365c36645942",
+    "url": "/testPaella/static/css/main.b562b067.chunk.css"
   },
   {
-    "revision": "a1c897dedc12e3ddba49",
-    "url": "/testPaella/static/js/main.a1c897de.chunk.js"
+    "revision": "8e00c9b7365c36645942",
+    "url": "/testPaella/static/js/main.f1a57d51.chunk.js"
   },
   {
-    "revision": "1641ab39aa70699a1660",
-    "url": "/testPaella/static/js/runtime~main.1641ab39.js"
+    "revision": "cb9783f9a885bc0f5575",
+    "url": "/testPaella/static/js/runtime~main.f405549e.js"
   },
   {
-    "revision": "5feafd262e7e3d05995f",
-    "url": "/testPaella/static/js/2.5feafd26.chunk.js"
+    "revision": "fca30e436af85aa2b9f5",
+    "url": "/testPaella/static/js/2.4979ca6c.chunk.js"
   },
   {
     "revision": "8ccc060a4ecb1b64cf5b1fff49540fdd",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/testPaella/static/media/whitebeans.02884784.svg"
   },
   {
-    "revision": "5c2529b29a4f6d74e5a24b5771e6e651",
+    "revision": "e16c89a8de30b4a57e21db9ace048d41",
     "url": "/testPaella/index.html"
   }
 ];
