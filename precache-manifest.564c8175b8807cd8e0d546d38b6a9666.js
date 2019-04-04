@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ae4fc9e0ec9e422c756d",
+    "revision": "a1c897dedc12e3ddba49",
     "url": "/testPaella/static/css/main.0d5e07e4.chunk.css"
   },
   {
-    "revision": "ae4fc9e0ec9e422c756d",
-    "url": "/testPaella/static/js/main.ae4fc9e0.chunk.js"
+    "revision": "a1c897dedc12e3ddba49",
+    "url": "/testPaella/static/js/main.a1c897de.chunk.js"
   },
   {
     "revision": "1641ab39aa70699a1660",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/testPaella/static/media/whitebeans.02884784.svg"
   },
   {
-    "revision": "d6073c104dc5d670e09f976ebef58931",
+    "revision": "5c2529b29a4f6d74e5a24b5771e6e651",
     "url": "/testPaella/index.html"
   }
 ];
